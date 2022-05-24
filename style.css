@@ -69,3 +69,23 @@ input
 {
     margin-top: 10x;
 }
+.book
+{
+cursor: pointer;
+}
+.book hr
+{
+    margin-bottom: 10px;
+}
+.model-content
+{
+    margin-top: 100px;
+}
+.img_modal
+{
+    display: inline-block;
+}
+.p_modal
+{
+    margin-top: 10px;
+}
